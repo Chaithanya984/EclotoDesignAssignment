@@ -1,0 +1,54 @@
+.ul-li-sub-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  padding: 15px;
+  border-radius: 15px;
+  margin-bottom: 15px;
+}
+
+.li-sub-cont-head {
+  font-size: 15px;
+  font-family: "Roboto";
+}
+
+.li-sub-cont-para {
+  font-family: "Roboto";
+  font-size: 12px;
+}
+
+.li-sub-cont-sub-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.li-sub-cont-sub-but {
+  height: 35px;
+  width: 35px;
+  font-size: 28px;
+  background-color: red;
+  margin-right: 12px;
+  border-width: 0px;
+  border-style: none;
+  color: white;
+}
+
+.li-sub-cont-sub-para {
+  font-size: 20px;
+  font-family: "Roboto";
+}
+
+.li-sub-cont-sub-buts {
+  height: 35px;
+  width: 35px;
+  font-size: 28px;
+  background-color: green;
+  margin-left: 12px;
+  border-width: 0px;
+  border-style: none;
+  color: white;
+}

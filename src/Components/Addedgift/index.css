@@ -1,0 +1,25 @@
+.ul-li-sub-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  padding: 15px;
+  border-radius: 15px;
+  margin-bottom: 15px;
+}
+
+.li-sub-cont-head {
+  font-size: 15px;
+  font-family: "Roboto";
+}
+
+.li-sub-cont-para {
+  font-family: "Roboto";
+  font-size: 12px;
+}
+
+.li-sub-free {
+  background-color: lightgreen;
+  color: green;
+}
